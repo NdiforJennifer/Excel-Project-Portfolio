@@ -1,4 +1,4 @@
-This project on creating dashboards on excel
+This is a project on creating dashboards on excel
 Overview 
 
 Data about bike purchases from North America, Europe, and the Pacific is analyzed in this research.
